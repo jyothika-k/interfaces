@@ -665,4 +665,12 @@
             <instance>default</instance>
         </interface>
     </hal>
+    <hal format="aidl" optional="true">
+        <name>android.hardware.carsenze</name>
+        <version>1</version>
+        <interface>
+            <name>ICarsenze</name>
+            <instance>default</instance>
+        </interface>
+    </hal>
 </compatibility-matrix>
